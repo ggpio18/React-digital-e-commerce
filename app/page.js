@@ -30,7 +30,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Image
+            <Image 
               className="dark:invert"
               src="/vercel.svg"
               alt="Vercel logomark"
@@ -85,7 +85,7 @@ export default function Home() {
           href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"
-        >
+        > 
           <Image
             aria-hidden
             src="/globe.svg"
